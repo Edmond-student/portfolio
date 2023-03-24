@@ -10,7 +10,7 @@
       align-items: center;
     }
     header h1 {
-      font-size: 32px;
+      font-size: 32vw;
       margin: 0;
     }
     header nav ul {
@@ -23,7 +23,7 @@
     header nav a {
       color: #fff;
       text-decoration: none;
-      font-size: 18px;
+      font-size: 18vw;
       font-weight: bold;
     }
     /* Style for the About section */
@@ -31,11 +31,11 @@
       padding: 50px;
     }
     section h2 {
-      font-size: 28px;
+      font-size: 28vw;
       margin-bottom: 20px;
     }
     section p {
-      font-size: 18px;
+      font-size: 18vw;
       line-height: 1.5;
       margin-bottom: 20px;
     }
