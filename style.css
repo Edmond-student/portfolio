@@ -23,7 +23,7 @@
     header nav a {
       color: #fff;
       text-decoration: none;
-      font-size: 18vw;
+      font-size: 18px;
       font-weight: bold;
     }
     /* Style for the About section */
@@ -31,7 +31,7 @@
       padding: 50px;
     }
     section h2 {
-      font-size: 28vw;
+      font-size: 28px;
       margin-bottom: 20px;
     }
     section p {
